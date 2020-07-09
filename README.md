@@ -1,4 +1,4 @@
-## 👋 Hello World! I'm Kent!
+### 👋 Hello World! I'm Kent!
 
 I'm a student developer currently studying BS Computer Science at the University of the Philippines Cebu.
 

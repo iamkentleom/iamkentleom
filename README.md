@@ -1,7 +1,12 @@
-### 👋 Hello World! I'm Kent!
+### 👋🏼 hello world! i'm kent!
 
-I'm a student developer currently studying BS Computer Science at the University of the Philippines Cebu.
+- 👨🏼‍💻 i'm a junior full stack engineer
+- 💖 i love making cool software on my free time
+- 📣 would talk over tech for hours
+- 📌 based in Cebu PH
 
-I do programming for fun. On my free time, I usually play computer games with my friends. When I'm not playing, I devote myself on exploring, learning, and creating awesome stuff with technology.
 
-I'm also a core member of DSC UP Cebu. In the future, I aspire to be a software developer.
+### 👍🏼 feel free to connect with me
+- 🌐 [iamkentleom.github.io](https://iamkentleom.github.io)
+- 🏢 [linkedin.com/in/iamkentleom](https://linkedin.com/in/iamkentleom)
+- 📧 [leomakibulan@gmail.com](mailto:leomakibulan@gmail.com)

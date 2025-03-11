@@ -1,9 +1,9 @@
 ### 👋🏼 hello world! i'm kent!
 
-- 👨🏼‍💻 i'm a junior full stack engineer
+- 👨🏼‍💻 i'm a software engineer turned data engineer
 - 💖 i love making cool software on my free time
 - 📣 would talk over tech for hours
-- 📌 based in Cebu PH
+- 📌 based in Makati PH
 
 
 ### 👍🏼 feel free to connect with me

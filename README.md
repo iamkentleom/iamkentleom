@@ -6,7 +6,7 @@
 - 📌 based in Makati PH
 
 
-### 👍🏼 feel free to connect with me
+### 🤝 let's connect!
 - 🌐 [iamkentleom.github.io](https://iamkentleom.github.io)
 - 🏢 [linkedin.com/in/iamkentleom](https://linkedin.com/in/iamkentleom)
 - 📧 [leomakibulan@gmail.com](mailto:leomakibulan@gmail.com)

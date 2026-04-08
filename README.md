@@ -3,6 +3,7 @@
 - 👨🏼‍💻 i'm a software engineer turned data engineer
 - 💖 i love making cool software on my free time
 - 📣 would talk over tech for hours
+- 🧗‍♂️ climb rocks for fun
 - 📌 based in Makati PH
 
 
